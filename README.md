@@ -1,9 +1,12 @@
 # Totally real engine
-## Description
-Tottaly real engine is simple project I made to practice and learn new skills in\
-OpenGL and C++. It's relatively new project and contributing is appreciated.
 
 ![What is this engine capable of](https://i.stack.imgur.com/4Qvll.gif)
+[![Discord](https://img.shields.io/discord/1037294772261490688?label=discord)](https://discord.gg/kAX7UErbA5)
+
+## Description
+Totally real engine is simple project I made to practice and learn new skills in\
+OpenGL and C++. It's relatively new project and contributing is appreciated.
+
 ###### for now there is nothing really to show, it's work in progress.
 
 ## Installation
