@@ -1,0 +1,7 @@
+C:\Users\ivanr\Desktop\Engine>compile.py
+In file included from src/engine/engine.hpp:1:0,
+                 from src/game.cpp:1:
+src/engine/render/window.hpp: In member function 'void engine::render::Window::create()':
+src/engine/render/window.hpp:60:45: error: cannot convert 'engine::render::Window::resize' from type 'void (engine::render::Window::)()' to type 'GLFWwindowsizefun {aka void (*)(GLFWwindow*, int, int)}'
+    glfwSetWindowSizeCallback(mWindow, resize);
+                                             ^
