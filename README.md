@@ -3,7 +3,7 @@
 Tottaly real engine is simple project I made to practice and learn new skills in\
 OpenGL and C++. It's relatively new project and contributing is appreciated.
 
-![What is this engine capable of](https://math.hws.edu/graphicsbook/c3/opengl-rgb-triangle.png)
+![What is this engine capable of](https://i.stack.imgur.com/4Qvll.gif)
 ###### for now there is nothing really to show, it's work in progress.
 
 ## Installation
